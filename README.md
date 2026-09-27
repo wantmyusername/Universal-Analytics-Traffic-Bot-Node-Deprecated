@@ -1,3 +1,7 @@
+> **Consolidated → archived.** This repo was merged into the single archive
+> [**universal-analytics-fake-traffic-suite**](https://github.com/wantmyusername/universal-analytics-fake-traffic-suite).
+> It is archived and kept only for reference.
+
 # Universal Analytics Traffic Bot — Node.js — *Deprecated*
 
 > **Deprecated / historical code.** This is an old bot that targeted **Universal Analytics**, which was shut down on **July 1, 2023**. It no longer works and is kept only as a memory of what this once was. Not maintained, not to be used.
